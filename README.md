@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mobinfallahi0
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m mobin fallahi
+- 🌱 I coding java and know C
 - 📫 How to reach me mobinfallahi0@gmail.com
